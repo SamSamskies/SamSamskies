@@ -46,5 +46,5 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif" alt="cool doge gif small" />
   <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif" alt="cool doge gif small" />
   <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif" alt="cool doge gif small" />
-  
+  <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif" alt="cool doge gif small" />
 </div>
